@@ -3,7 +3,7 @@
 * @file           : bsp_linux.c
 * @brief          : Description of C implementation module
 * @author         : Gonzalo Rivera
-* @date           : dd/mm/aaaa
+* @date           : 29/03/2023
 *******************************************************************************
 * @attention
 *

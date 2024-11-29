@@ -3,7 +3,7 @@
 * @file           : can_drv.h
 * @brief          : Description of header file
 * @author         : Gonzalo Rivera
-* @date           : dd/mm/aaaa
+* @date           : 29/03/2023
 *******************************************************************************
 * @attention
 *
